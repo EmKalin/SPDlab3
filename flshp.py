@@ -85,13 +85,6 @@ def zad1(files):
         print("Wynik dla ", files[i], "jest ", wynik)
         print("W kolejnści ", ustawienie)
 
-        # print(files[i], Cmax(dane, n, m), "n=", n, "m=", m)
-        # kombinacje = BF(dane)
-        # wynik = []
-        # for item in kombinacje:
-        #     wynik.append(Cmax(item, n, m))
-        # print("opt ", min(wynik))
-
 
 pliki = ["data001.txt", "data003.txt", "data005.txt"]
 
